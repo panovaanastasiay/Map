@@ -1,0 +1,20 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.3",
+    "@babel/preset-env": "^7.24.3",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "core-js": "^3.36.1"
+  }
+}
